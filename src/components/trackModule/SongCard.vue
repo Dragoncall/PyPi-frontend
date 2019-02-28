@@ -41,7 +41,7 @@ export default {
   },
   computed: {
     isDark () {
-      return true; // TODO: fix this
+      return true // TODO: fix this
       // this.$refs.card.isDark
     }
   }
